@@ -71,45 +71,6 @@ This architecture follows cloud security best practices by enforcing controlled 
 
 ---
 
-# Project Structure
-
-```text
-GCP-IAM-Security-Lab/
-│
-├── README.md
-│
-├── docs/
-│   ├── Project-Overview.md
-│   ├── IAM-Architecture.md
-│   ├── Service-Account-Configuration.md
-│   ├── Custom-IAM-Role.md
-│   ├── IAM-Policy-Verification.md
-│   ├── Security-Best-Practices.md
-│   └── Cleanup-Procedures.md
-│
-├── scripts/
-│   ├── role-definition.json
-│   ├── create-custom-role.sh
-│   ├── assign-custom-role.sh
-│   ├── verify-iam-policy.sh
-│   └── cleanup.sh
-│
-├── screenshots/
-│   ├── 01-GCP-Project-Created.png
-│   ├── 02-Billing-Enabled.png
-│   ├── 03-Compute-Engine-API-Enabled.png
-│   ├── 04-Service-Account-Created.png
-│   ├── 05-IAM-Editor-Role-Assigned.png
-│   ├── 06-Custom-IAM-Role-Created.png
-│   ├── 07-Custom-Role-Assigned.png
-│   ├── 08-Custom-Role-Verification.png
-│   └── 09-Project-Completed.png
-│
-└── reports/
-    └── GCP-IAM-Security-Lab-Report.pdf
-```
-
----
 
 # Implementation Steps
 
@@ -329,12 +290,6 @@ A detailed technical report is included:
 ```text
 reports/GCP-IAM-Security-Lab-Report.pdf
 ```
-
----
-
-# Resume Summary
-
-Implemented secure Identity and Access Management (IAM) controls in Google Cloud Platform by creating service accounts, assigning least-privilege permissions, developing custom IAM roles, and validating access policies using gcloud CLI. Applied RBAC, cloud governance, and security best practices to strengthen cloud access management.
 
 ---
 
