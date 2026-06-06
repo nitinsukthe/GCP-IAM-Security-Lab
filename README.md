@@ -7,7 +7,7 @@ Configured and secured Google Cloud IAM using service accounts, custom roles, le
 ![GCP](https://img.shields.io/badge/Platform-Google_Cloud_Platform-blue)
 ![Security](https://img.shields.io/badge/Domain-Cloud_Security-green)
 ![IAM](https://img.shields.io/badge/Focus-IAM-orange)
-![Status](https://img.shields.io/badge/Project-Completed-success)
+
 
 ---
 
