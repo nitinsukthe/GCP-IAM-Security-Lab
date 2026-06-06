@@ -1,0 +1,10 @@
+{
+  "title": "CustomRole",
+  "description": "Custom role for cloud security IAM demonstration",
+  "stage": "GA",
+  "includedPermissions": [
+    "compute.instances.list",
+    "compute.instances.start",
+    "compute.instances.stop"
+  ]
+}
