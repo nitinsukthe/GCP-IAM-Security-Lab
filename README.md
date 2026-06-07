@@ -1,5 +1,3 @@
-# GCP-IAM-Security-Lab
-Configured and secured Google Cloud IAM using service accounts, custom roles, least-privilege access controls, and gcloud CLI automation.
 # GCP IAM Security Lab
 
 ## Implementing Least-Privilege Access Control with Service Accounts and Custom IAM Roles in Google Cloud Platform
